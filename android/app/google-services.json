@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1006882664569",
+    "project_id": "expowebviewfcm",
+    "storage_bucket": "expowebviewfcm.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006882664569:android:0d14441f1e3a42b31964a8",
+        "android_client_info": {
+          "package_name": "com.anonymous.expowebviewfcm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlF0jdjF48BTbYcFdqr5lXsgFR-BiSFuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
