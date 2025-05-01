@@ -7,7 +7,7 @@
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/splash-icon.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -42,6 +42,7 @@
         "projectId": "d88069e1-7b89-4782-a376-f28b1acd5f10"
       }
     },
-    "owner": "sarthakb01"
+    "owner": "sarthakb01",
+    "sdkVersion": "53.0.0"
   }
 }
